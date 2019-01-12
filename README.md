@@ -1,18 +1,5 @@
-# Demo Git Repository
+# First project in GIT
 
-This is the first file in this repo..
+This is just a dummy project to be pushed in GitHub.
 
-## Testing Git
-
-Testing GIT repository
-
-
-Testing GIT repository
-
-Testing GIT repository
-Testing GIT repository
-Testing GIT repository
-Testing GIT repository
-
-# Adding some more comments
-Adding some more file content
+This is for practice purpose only to understand how git works and code can be committed with its help.
